@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTArrayList", "ArrayList\BT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTNhanVienArrayList", "BTNhanVienArrayList\BTNhanVienArrayList.csproj", "{BE10D1BE-274A-42D2-8ED6-1F20677A379B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaitapMang2Chieu", "BaitapMang2Chieu\BaitapMang2Chieu.csproj", "{CF356EA1-E5DC-4A0B-B8A6-03B646C0A4D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaitapMang2ChieuBai2", "BaitapMang2ChieuBai2\BaitapMang2ChieuBai2.csproj", "{F744F990-3C99-49BD-AEB4-2F40EC37AB46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{BE10D1BE-274A-42D2-8ED6-1F20677A379B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE10D1BE-274A-42D2-8ED6-1F20677A379B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE10D1BE-274A-42D2-8ED6-1F20677A379B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF356EA1-E5DC-4A0B-B8A6-03B646C0A4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF356EA1-E5DC-4A0B-B8A6-03B646C0A4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF356EA1-E5DC-4A0B-B8A6-03B646C0A4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF356EA1-E5DC-4A0B-B8A6-03B646C0A4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F744F990-3C99-49BD-AEB4-2F40EC37AB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F744F990-3C99-49BD-AEB4-2F40EC37AB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F744F990-3C99-49BD-AEB4-2F40EC37AB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F744F990-3C99-49BD-AEB4-2F40EC37AB46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
